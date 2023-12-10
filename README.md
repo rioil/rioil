@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rioil&count_private=true&show_icons=true&theme=dark"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rioil&theme=dark"/>
-</a>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rioil&theme=github_dark) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rioil&theme=github_dark) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rioil&theme=github_dark) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rioil&theme=github_dark) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rioil&theme=github_dark&utcOffset=9) 
+ 
